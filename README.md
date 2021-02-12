@@ -1,6 +1,5 @@
 ### Hello!
-✨I am ExDiggers, a developer with 6 months Java experience, and 1 month C# experience (as of January). ✨
+✨I am ExDiggers, a developer with over a half of a year of Java experience, and a little bit of C++ and C# ✨
 
 My Discord is ExDiggers#7963
 
-Be sure to check out my repos!
