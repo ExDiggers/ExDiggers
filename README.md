@@ -1,5 +1,4 @@
 ### Hello!
-✨I am ExDiggers, a developer with over a half of a year of Java experience, and a little bit of C++ and C# ✨
+✨I am ExDiggers, another bad 13 y/o developer. I am an anticheat fanatic, and know Java (I have been on and off learning C++). ✨
 
-My Discord is ExDiggers#7963
-
+If you want to talk, email me at exdiggersdev@gmail.com.
